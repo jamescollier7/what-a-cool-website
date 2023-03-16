@@ -6,8 +6,9 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
+  gap: 35px;
 }
 
 img {
-  width: 80vh;
+  width: 450vw;
 }
