@@ -9,6 +9,18 @@ body {
   gap: 35px;
 }
 
-img {
+.item {
   width: 45vw;
+}
+
+.item.hattie-and-james {
+  background-image: url("Assets/besties.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.item.kelton {
+  background-image: url("Assets/kelton.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
