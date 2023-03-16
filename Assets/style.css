@@ -10,17 +10,18 @@ body {
 }
 
 .item {
+  height: 45vh;
   width: 45vw;
 }
 
 .item.hattie-and-james {
-  background-image: url("Assets/besties.jpeg");
+  background-image: url("besties.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .item.kelton {
-  background-image: url("Assets/kelton.jpg");
+  background-image: url("kelton.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
