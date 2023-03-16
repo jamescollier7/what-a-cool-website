@@ -24,4 +24,5 @@ body {
   background-image: url("kelton.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: center;
 }
